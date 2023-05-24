@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 name: Deploy React App
-=======
-name: Test React App
->>>>>>> c4a10770bb444bf46bf1bedbdbc77a7d97aea52e
 on: push
 jobs:
   test:
